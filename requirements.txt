@@ -1,0 +1,2 @@
+fastapi
+git+https://github.com/konradkrasno/chat-maker.git
